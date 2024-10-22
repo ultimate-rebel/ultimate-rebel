@@ -6,7 +6,7 @@
 
 <p align=center>  𝘪 𝘤𝘢𝘯'𝘵 𝘴𝘢𝘺 𝘢𝘯𝘺𝘵𝘩𝘪𝘯𝘨, 𝘪 𝘤𝘢𝘯'𝘵 𝘮𝘢𝘬𝘦 𝘪𝘵 𝘥𝘪𝘴𝘢𝘱𝘱𝘦𝘢𝘳</p>
 
-<p align=center> •─────⋅🌹⋅─────•୧ .˚ .˚</p>
+<p align=center> •─────⋅🌹⋅─────•</p>
 
 
 <p align=center> <a href="https://ezraxp.straw.page/">𝙨𝙩𝙧𝙖𝙬𝙥𝙖𝙜𝙚</a></p>
