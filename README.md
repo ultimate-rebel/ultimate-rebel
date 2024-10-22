@@ -8,8 +8,10 @@
 
 <p align=center> <a href="https://ezraxp.straw.page/">𝙨𝙩𝙧𝙖𝙬𝙥𝙖𝙜𝙚</a></p>
 
-<p align=center> <a href="https://ult-rebel.carrd.co">carrd</a></p>
+<p align=center> <a href="https://ult-rebel.carrd.co">𝙘𝙖𝙧𝙧𝙙</a></p>
 
+
+<p align=center>  𝘵𝘩𝘢𝘯𝘬 𝘺𝘰𝘶 >_< </p>
 <!---
 ultimate-rebel/ultimate-rebel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
