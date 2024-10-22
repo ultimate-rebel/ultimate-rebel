@@ -1,14 +1,14 @@
 <head>
-<link href='https://fonts.googleapis.com/css?family=Abhaya Libre' rel='stylesheet'>
 <style>
 body {
-    font-family: 'Abhaya Libre';font-size: 22px;
+  font-family: 'Courier New', monospace;
 }
 </style>
 </head>
 <body>
 
-<h1 align="center">"as we exchange kisses, my heart will be cured by degrees, right?"</h1>
+<p align=center> as we exchange kisses, my heart will be cured by degrees, right?</p>
+
 </body>
 
 
