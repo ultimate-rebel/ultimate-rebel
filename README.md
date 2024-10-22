@@ -1,15 +1,4 @@
-<head>
-<style>
-body {
-  font-family: 'Courier New', monospace;
-}
-</style>
-</head>
-<body>
-
-<p align=center> as we exchange kisses, my heart will be cured by degrees, right?</p>
-
-</body>
+<p align=center> 𝘢𝘴 𝘸𝘦 𝘦𝘹𝘤𝘩𝘢𝘯𝘨𝘦 𝘬𝘪𝘴𝘴𝘦𝘴, 𝘮𝘺 𝘩𝘦𝘢𝘳𝘵 𝘸𝘪𝘭𝘭 𝘣𝘦 𝘤𝘶𝘳𝘦𝘥 𝘣𝘺 𝘥𝘦𝘨𝘳𝘦𝘦𝘴, 𝘳𝘪𝘨𝘩𝘵?</p>
 
 
 
